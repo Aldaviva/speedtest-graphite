@@ -1,0 +1,8 @@
+{
+    "testIntervalMillis": 60000,
+	"graphite": {
+		"host": "localhost",
+		"port": 2003,
+		"key": "speedtest"
+	}
+}

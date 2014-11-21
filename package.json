@@ -1,0 +1,9 @@
+{
+	"name": "speedtest-graphite",
+	"version": "0.0.0",
+	"author": "Ben Hutchison <ben@aldaviva.com>",
+	"dependencies": {
+		"speedtest.net": "0.1.0",
+		"graphite": "0.0.6"
+	}
+}
